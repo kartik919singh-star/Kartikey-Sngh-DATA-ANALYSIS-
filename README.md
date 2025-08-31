@@ -1,2 +1,1 @@
-# Kartikey-Sngh-DATA-ANALYSIS-
-DATA ANALYSIS PYTHON PROJECT - BLINKIT ANALYSIS
+# Kartikey-Sngh-Projects
